@@ -3,6 +3,8 @@ body {
     padding-top: 100px;
 }
 
+
+
 footer {
     margin-top: 40px;
     padding-top: 20px;
@@ -32,6 +34,10 @@ footer {
     background-color: #c67605;
 }
 
+.welcome-view {
+    background-image: url("../media/images/boy-computer.jpg");
+    background-repeat: no-repeat;
+}
 .product {
     background-size: contain;
     background-position: center center;
